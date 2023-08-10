@@ -1,0 +1,5 @@
+
+number of working employees: 2
+employee salary: 10000
+employee name :Son
+employee id: 2

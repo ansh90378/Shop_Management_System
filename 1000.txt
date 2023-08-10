@@ -1,0 +1,9 @@
+
+product name: pencil
+product id: 1000
+percost ofproduct: 4
+persell of product: 10
+quantity: 10
+ total cost: 40
+sell: 100
+sell: 5000
